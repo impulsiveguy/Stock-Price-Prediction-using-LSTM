@@ -22,4 +22,5 @@ The model is trained using **Long Short-Term Memory (LSTM)** networks — a type
 
 Install all required dependencies using:
 
+```bash
 pip install yfinance pandas numpy scikit-learn tensorflow keras streamlit matplotlib
